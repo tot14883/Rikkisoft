@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540386068871",
+    "firebase_url": "https://polar-winter-246903.firebaseio.com",
+    "project_id": "polar-winter-246903",
+    "storage_bucket": "polar-winter-246903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540386068871:android:d4ac890e1080d9be",
+        "android_client_info": {
+          "package_name": "com.rikkeisoft.rikkonbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540386068871-6iqtqlp1opa488ldvekmc68og1te3q5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqhGA9dJDIG4hA2__lCW8vetQVKk-6oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540386068871-6iqtqlp1opa488ldvekmc68og1te3q5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540386068871-7u22sm0i3rsmg78mmr4n6ttcem0njrkl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rikkeisoft.Rikkonbi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

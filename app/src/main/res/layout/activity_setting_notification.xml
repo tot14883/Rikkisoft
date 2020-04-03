@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator_setting"
+    android:background="@color/transparent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.Notification.SettingNotification.SettingNotification">
+    <eightbitlab.com.blurview.BlurView
+        android:id="@+id/blurView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+
+        >
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:id="@+id/Linear_setting"
+        >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btn_watch"
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_gray_border"
+            android:text="@string/btn_watch"
+            android:textAllCaps="false"
+            android:elevation="0dp"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="18sp" />
+        <Button
+            android:id="@+id/btn_remove"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="@android:color/holo_red_light"
+            android:text="@string/btn_del"
+            android:elevation="0dp"
+
+            style="?android:attr/borderlessButtonStyle"
+            android:background="@drawable/btn_gray_border"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/btn_cancel"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="@android:color/holo_red_light"
+            android:text="@string/btn_cancel"
+            android:elevation="0dp"
+
+            style="?android:attr/borderlessButtonStyle"
+            android:background="@drawable/btn_gray_border"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"/>
+    </LinearLayout>
+    </eightbitlab.com.blurview.BlurView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

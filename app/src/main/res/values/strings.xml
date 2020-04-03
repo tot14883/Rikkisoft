@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Rikkonbi</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_back">Back</string>
+    <string name="title_category">Danh mục</string>
+    <string name="title_history">Lịch sử mua hàng</string>
+    <string name="title_account">Tài khoản</string>
+
+    //Change this one when you move it to another com because this one match your device sha-1
+    <string name="default_web_client_id_1">378157890349-s9emlkvqlmgvh74n18gk01tru426sa6b.apps.googleusercontent.com</string>
+
+    <string name="title_cart">xe đẩy</string>
+    <string name="name_user">Username</string>
+    <string name="email_user">test@gmail.com</string>
+
+    <string name="title_cart_screen">Giỏ hàng của bạn</string>
+
+    <string name="detail_1_order">Mua hàng thành công</string>
+    <string name="detail_2_order">Cảm ơn bạn đã sử dụng dịch vụ Rikkonbi tại Rikkeisoft</string>
+    <string name="detail_3_order">Trường hợp cần liên lạc, liên hệ hotline: </string>
+    <string name="detail_phone">0935485829</string>
+
+    <string name="title_cart_empty">Giỏ hàng</string>
+
+    <string name="title_history_2">Lịch sử mua hàng</string>
+
+    <string name="category_screen">Danh mục sản phẩm</string>
+
+    <string name="xin_chao">Xin chào</string>
+    <string name="application_json">application/json</string>
+    <string name="bearer">bearer\u0020</string>
+    <string name="btn_login">Login with RikkeiSoft</string>
+    <string name="orger_management">Quản lý đơn hàng</string>
+    <string name="version1_0">Phiên bản 1.0</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="wallet_balance">Số dư ví</string>
+    <string name="qr_code">Quét mã khác</string>
+    <string name="add_to_your_cart">Cho vào giỏ hàng</string>
+    <string name="buy_right_away">Mua ngay</string>
+    <string name="show_dialog_cart">Thêm vào giỏ hàng thành công  </string>
+    <string name="check_cart">Xem giỏ hàng</string>
+    <string name="total_amount">Thành tiền:</string>
+    <string name="continue_buy">Tiếp tục mua hàng</string>
+    <string name="no_item_cart">Bạn chưa có sản phẩm nào trong giỏ hàng</string>
+    <string name="add_complete">Thêm vào giỏ hàng hoàn thành</string>
+    <string name="unable_2_cart">Không thể thêm vào giỏ hàng</string>
+    <string name="completely">hoàn toàn</string>
+    <string name="order_failed">Mua hàng không thành công</string>
+    <string name="check_histoty">Xem lịch sử</string>
+    <string name="back_to_home">Về trang chủ</string>
+    <string name="currency">đ</string>
+
+    <string name="qr_code_btn">Đồ ăn\u0020&amp;\u0020Thức uống</string>
+
+    <string name="Login_fail">Login Failed</string>
+    <string name="Oops">Oops...</string>
+    <string name="More_than_0">Hơn 0 số</string>
+    <string name="More_than_max">Nhiều hơn số lượng đặt hàng tối đa </string>
+    <string name="More_than_min">ít hơn số lượng đặt hàng tối thiểu</string>
+    <string name="successfully">thành công</string>
+    <string name="cannot_to_add">không thể thêm vào giỏ hang</string>
+    <string name="Add_Success">Thêm thành công</string>
+    <string name="Delete_fail">xóa thất bại</string>
+    <string name="Delete_Success">Xóa thành công</string>
+    <string name="fail">Fail</string>
+
+    <string name="Total_amount">Thành tiền</string>
+    <string name="Order">Đặt hàng</string>
+    <string name="Status">Trạng thái</string>
+
+    <string name="not_pay">Đã nhận hàng,</string>
+
+    <string name="book_borrowing">Quản lý mượn trả sách</string>
+    <string name="rikkei_info">Thông tin RIKKEI</string>
+    <string name="phone_line">HOT LINE:</string>
+    <string name="no_internet">Không có internet</string>
+    <string name="title_message">Tin nhắn</string>
+    <string name="message_empty">Bạn chưa có tin nhắn nào</string>
+
+
+    <string name="rikkei_info_tel">Tel: (+84) </string>
+
+    <string name="btn_watch">Đã xem</string>
+    <string name="btn_del">xóa</string>
+    <string name="btn_cancel">Hủy</string>
+
+    <string name="message_hotline_topic">Thông báo</string>
+    <string name="message_hotline_detail">Bạn có muốn thực hiện cuộc gọi đến  Rikkeisoft Đà Nẵng không ?</string>
+    <string name="message_hotline_yes">Gọi</string>
+
+    <!-- FCM -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_name" translatable="true">Rikkonbi</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to Rikkonbi topic</string>
+    <string name="msg_subscribed">Subscribed to Rikkonbi topic</string>
+
+
+</resources>

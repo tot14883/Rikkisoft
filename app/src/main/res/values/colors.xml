@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BC2026</color>
+    <color name="colorPrimaryDark">#7E1014</color>
+    <color name="colorAccent">#BC2026</color>
+    <color name="cus_gray">#797979</color>
+    <color name="gray_background">#DFDFDF</color>
+    <color name="green_text">#39784E</color>
+    <color name="black_soft">#2E2E2E</color>
+    <color name="yellow_background">#FFEB3B</color>
+    <color name="yellow_dark">#EEEE14</color>
+    <color name="orange_txt">#F09D3A</color>
+    <color name="bg_orange_badge">#EE8C18</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_gray_2">#363636</color>
+    <color name="white_op">#4FFFFFFF</color>
+</resources>
